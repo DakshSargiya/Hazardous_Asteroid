@@ -14,10 +14,6 @@ Several machine learning models were tested to classify asteroids based on the p
 
 ## Visualizations
 The relationship between key features, such as miss distance and semi-major axis, was explored using visualizations like scatter plots and pair plots. These plots help understand the correlations between different orbital properties.
- 
-This is the correlation matrix of different columns for extraction of features and establishing relations to fill in more missing values.
-BoxPlots were also plotted to detect outliers in different columns.
- 
-This is the pairplot that relates different features using scatter plots and also shares information regarding skewness and normalization values.
+
 ## Conclusion
 In conclusion, the preprocessing and feature engineering steps ensure the dataset is ready for classification. Further steps include applying machine learning models to classify asteroids based on their potential hazard level.
